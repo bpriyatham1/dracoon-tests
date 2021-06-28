@@ -1,0 +1,27 @@
+hello world!!
+s/d
+as/f
+as/fa
+sF?
+asf/
+sa/f
+asdf/
+asdasf/as
+/
+as/d
+as/das
+d/as
+/d
+as/d
+as/d
+asd
+/d/as tag::d/as[]
+d/
+as/d
+a/as
+d/
+as/d
+as/d
+as/d
+as/s
+d/as end::d/as[]
